@@ -32,7 +32,7 @@ npm install
 
 3. **Umgebungsvariablen einrichten:**
 
-Erstelle eine .env Datei root directory und füge folgende Variablen hinzu:
+Erstelle eine .env Datei in root directory und füge folgende Variablen hinzu:
 
 MONGODB_URI=
 JWT_SECRET=
